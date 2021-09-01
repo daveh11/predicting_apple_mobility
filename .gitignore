@@ -1,0 +1,3 @@
+*.csv
+notebooks/other/
+test_env/
